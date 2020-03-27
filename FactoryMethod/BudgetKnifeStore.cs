@@ -9,14 +9,16 @@ namespace FactoryMethod
         
         public override IKnife CreateKnife(string knifeType)
         {
-            if (knifeType=="chefs")
+            if (knifeType == "chefs")
             {
                 return new BudgetChefsKnife();
             }
-            else if (knifeType=="steak")
+            else if (knifeType == "steak")
             {
                 return new BudgetSteakKnife();
             }
+            else
+                return null;
         }
     }
 }
