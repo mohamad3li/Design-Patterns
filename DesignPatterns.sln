@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{37960C76-FCF6-408E-B169-53EF8A07BEEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{37960C76-FCF6-408E-B169-53EF8A07BEEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{9245CAF0-1E5F-4D3C-A259-15BB2ACDBCDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{9245CAF0-1E5F-4D3C-A259-15BB2ACDBCDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{1EF4E8FD-52B5-4A48-B3A4-EE878CB60B97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{1EF4E8FD-52B5-4A48-B3A4-EE878CB60B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{41F85FD5-40CA-43C6-A2E9-790B1FDFD198}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1EF4E8FD-52B5-4A48-B3A4-EE878CB60B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EF4E8FD-52B5-4A48-B3A4-EE878CB60B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EF4E8FD-52B5-4A48-B3A4-EE878CB60B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F85FD5-40CA-43C6-A2E9-790B1FDFD198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F85FD5-40CA-43C6-A2E9-790B1FDFD198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F85FD5-40CA-43C6-A2E9-790B1FDFD198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F85FD5-40CA-43C6-A2E9-790B1FDFD198}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
