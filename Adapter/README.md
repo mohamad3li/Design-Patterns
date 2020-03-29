@@ -1,0 +1,1 @@
+[![IMAGE ALT TEXT HERE](https://github.com/mohamad3li/Design-Patterns/raw/master/Adapter/Notes/dapter%20(01).png)](https://docs.google.com/presentation/d/e/2PACX-1vRmJ7fj4x5rVffMa5k_OJ6d06X_1RFx3q33FpD01ZYzk7eVPWNNoGoz_dkJ6_iZTw/pub?start=false&loop=false&delayms=3000)
