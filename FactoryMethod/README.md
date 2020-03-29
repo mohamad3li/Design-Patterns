@@ -1,10 +1,3 @@
-![1](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(1).png)
-![2](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(2).png)
-![3](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(3).png)
-![4](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(4).png)
-![5](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(5).png)
-![6](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(6).png)
-![7](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(7).png)
-![8](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(8).png)
-![9](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(9).png)
-![10](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(10).png)
+[![IMAGE ALT TEXT HERE](https://github.com/mohamad3li/Design-Patterns/blob/master/FactoryMethod/Shots/Factory%20Method%20(1).png)](https://docs.google.com/presentation/d/e/2PACX-1vRYv85x88vcnjHVbn_9U6FRz3wIQlP5CrjMyDxy3mIVfQyh9gH4ghvbYUjkgdJZlA/pub?start=false&loop=false&delayms=3000)
+
+
