@@ -11,9 +11,6 @@ namespace Decorator
         {
             this.page = page;
         }
-        public virtual void Display()
-        {
-            this.page.Display();
-        }
+        public abstract void Display();
     }
 }
