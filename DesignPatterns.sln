@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{20EAC43D-0CFD-418A-BD83-B7CB07D97724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{6188CDFC-8C40-4DE4-8789-C5F724FB66B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{6188CDFC-8C40-4DE4-8789-C5F724FB66B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilty", "ChainOfResponsibilty\ChainOfResponsibilty.csproj", "{2A58DFBD-0ABB-4772-9540-FF48B95B6DA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilty", "ChainOfResponsibilty\ChainOfResponsibilty.csproj", "{2A58DFBD-0ABB-4772-9540-FF48B95B6DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{845ADB5A-812E-477F-AF06-15BCCA12372E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{2A58DFBD-0ABB-4772-9540-FF48B95B6DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A58DFBD-0ABB-4772-9540-FF48B95B6DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A58DFBD-0ABB-4772-9540-FF48B95B6DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845ADB5A-812E-477F-AF06-15BCCA12372E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845ADB5A-812E-477F-AF06-15BCCA12372E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845ADB5A-812E-477F-AF06-15BCCA12372E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845ADB5A-812E-477F-AF06-15BCCA12372E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
